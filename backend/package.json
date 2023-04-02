@@ -1,0 +1,19 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "react-native-app for a6",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "kyungwon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.18.0",
+    "firebase-admin": "^11.5.0",
+    "sqlite3": "^5.1.6"
+  }
+}
