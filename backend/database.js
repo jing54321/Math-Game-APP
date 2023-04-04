@@ -1,6 +1,4 @@
-/**
- StAuth10244: I Kyungwon Lee, 000865096 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.
-*/
+
 import sqlite3 from 'sqlite3';
 
 const sqlite = sqlite3.verbose()
