@@ -6,7 +6,7 @@ This app is a simple math game app that matches the sum of two random numbers.
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/75094086/229655667-4733e29f-be7c-40d3-8653-c5cde7e9c5b0.gif" height="300"/>
+<img src="https://user-images.githubusercontent.com/75094086/229655667-4733e29f-be7c-40d3-8653-c5cde7e9c5b0.gif" height="500"/>
 
 ## How to use 
 
